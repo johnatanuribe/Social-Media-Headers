@@ -1,4 +1,5 @@
 # Social-Media-Headers
 
-Social Media Hear Template for Sketch
+Social Media Headers 
+Templates for Sketch
 
